@@ -3,5 +3,7 @@
 </head>
 <body>
 Login to github
+username:
+Password:
 </body>
 </html>
