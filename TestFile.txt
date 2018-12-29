@@ -3,6 +3,10 @@
 <body>
 *********
 <h2>welcome  to We bx</h2>
+<<<<<<< HEAD
 hello world @@@
+=======
+hello world
+>>>>>>> idea
 </body>
 </html>
